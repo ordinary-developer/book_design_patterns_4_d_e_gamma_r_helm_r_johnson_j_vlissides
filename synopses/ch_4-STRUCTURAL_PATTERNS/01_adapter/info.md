@@ -1,4 +1,4 @@
-ADAPTER (wrapper)
+ADAPTER (Wrapper)
 =================
 
 Intent
