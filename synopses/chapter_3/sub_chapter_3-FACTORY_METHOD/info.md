@@ -1,4 +1,4 @@
-FACTORY METHOD (aka Virtual Constructor)
+FACTORY METHOD (Virtual Constructor)
 =======================================
 
 Itent
