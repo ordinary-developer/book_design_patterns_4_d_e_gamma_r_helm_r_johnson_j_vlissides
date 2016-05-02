@@ -3,11 +3,11 @@ Project information
 
 This repository contains my files (my code snippets and my synopses about the main book's topics) 
 for the book  **"Design patterns"** by **Erich Gamma**, **Richard Helm**,
- **Ralph Johson** and **John Vlissides**
+ **Ralph Johson** and **John Vlissides**.
 
  
  
-[here is the link to amazon](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8). 
+[Here is the link to amazon](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8). 
 
 
 Installation
@@ -36,5 +36,4 @@ Contributing
 ------------
 
 This project doesn't need to be contributed.
-
 But just in case you can always connect with me.
