@@ -13,7 +13,7 @@ Applicability
 
 Use the Singleton pattern when
 - there must be exactly one instance of a class, and it must 
-  be accessible to clients from a well-known access point.
+  be accessible to clients from a well-known access point;
 - when the sole instance should be extensible by subclassing, and
   clients should be able to use an extended instance without 
   modifying there code.
@@ -42,7 +42,7 @@ Participants
 - Singleton
     * defines an Instance operation that lets clients access its
       unique instance. Instance is a class operation (that is, 
-      a static member function in C++) 
+      a static member function in C++); 
     * may be responsible for creating its own unique instance.
 
 
