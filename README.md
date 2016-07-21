@@ -19,11 +19,15 @@ Simply copy (clone the repository) and see and read it.
 Basic usage
 -----------
  
-`$ git clone https://gitlab.com/book_synopses_and_code_samples/design_patterns_4_d_e_gamma_r_helm_r_johnson_j_vlissides.git`
+```
+$ git clone https://gitlab.com/book_synopses_and_code_samples/design_patterns_4_d_e_gamma_r_helm_r_johnson_j_vlissides.git
+```
 
  or
 
-`$ git clone https://github.com/ordinary-developer/book_design_patterns_4_d_e_gamma_r_helm_r_johnson_j_vlissides.git`
+```
+$ git clone https://github.com/ordinary-developer/book_design_patterns_4_d_e_gamma_r_helm_r_johnson_j_vlissides.git
+```
 
  
 License
